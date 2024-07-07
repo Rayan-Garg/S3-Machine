@@ -1,2 +1,1 @@
-# cocktail-machine
-Automatic Cocktail Machine
+#Automatic Cocktail Machine
